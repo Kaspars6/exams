@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Shop",
+            "request": "launch",
+            "mainClass": "Shop",
+            "projectName": "exams_6721df7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shop",
+            "request": "launch",
+            "mainClass": "Shop",
+            "projectName": "Shop.java",
+            "vmArgs": "-Dfile.encoding=UTF-8"
+        }
+    ]
+}
